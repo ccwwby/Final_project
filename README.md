@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>About Tim Williams Homepage</h1>
+  <h1>Homepage heading</h1>
 </div>
 
-* [Upbringing](upbringing.md)
+* [page1](page1.md)
 
-* [Highschool](highschool.md)
+* [page2](page2.md)
 
 
 
