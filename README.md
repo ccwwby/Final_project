@@ -1,7 +1,7 @@
 <div align="center">
   <h1>About Tim Williams Homepage</h1>
-</div?
+</div>
 
-## [Upbringing](upbringing.md)
+### [Upbringing](upbringing.md)
 
 ### [Highschool](highschool.md)
