@@ -4,4 +4,4 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
 
 [to page1](page1.md)
 
-[to HTML](html.md)
+[to HTML](HTML.md)
