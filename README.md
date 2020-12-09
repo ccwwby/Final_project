@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>About Tim Williams</h1>
+  <h1>About Tim Williams Homepage</h1>
 </div?
 
 
-[to page1](page1.md)
+[Upbringing](upbringing.md)
 
-[to HTML](HTML.md)
+[Highschool](highschool.md)
