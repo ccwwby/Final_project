@@ -5,4 +5,4 @@
 
 ### [Upbringing](upbringing.md)
 
-### [Highschool](highschool.md)
+## [Highschool](highschool.md)
