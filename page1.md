@@ -8,4 +8,4 @@ Tim attended *South Harrison R-2 High School* in Bethany Missouri. During his ti
 * __National Honor Society__: President for one year
 * __Student Government__: President for two years
 
-
+![logo](20476323_342133512908934_7643020417617534033_n.jpg)
