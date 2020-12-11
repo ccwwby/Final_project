@@ -4,9 +4,9 @@
 
 <p>Timothy Carter Williams is the son of Timothy S. Williams and Elke S. Williams. He was born on April 11, 2002 in North Kansas City, Missouri at the <a href="https://www.nkch.org/" target="_blank">North Kansas City Hospital</a>. Tim was raised in Ridgeway, Missouri until 2006 when he and his family moved to nearby Bethany, MO.</p>
 
-* [page1](page1.md)
+* [High School](page1.md)
 
-* [page2](page2.md)
+* [University Life](page2.md)
 
 
 
