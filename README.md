@@ -8,7 +8,7 @@
 
 * [University Life](page2.md)
 
-* [Required Code Block](page3.md)
+* [Required Code Block](codeblock.html)
 
 
 ##
