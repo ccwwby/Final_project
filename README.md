@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Homepage heading</h1>
+  <h1>About Timothy C. Williams</h1>
 </div>
 
 * [page1](page1.md)
